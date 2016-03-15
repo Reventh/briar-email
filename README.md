@@ -41,4 +41,4 @@ You can preview this email template here: http://slicejack.github.io/briar-email
 - Gmail App for android is not fully supported.
 
 ## License
-All contents of this theme are licensed under the [MIT license](https://github.com/Slicejack/briar-email/blob/master/LICENSE).
+All contents of this template are licensed under the [MIT license](https://github.com/Slicejack/briar-email/blob/master/LICENSE).
