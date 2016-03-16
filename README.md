@@ -4,7 +4,7 @@ Briar is a free responsive e-mail template inspired by Briar WordPress Theme - h
 It was a challenge to create template that works perfectly and looks beautiful on all desktop clients, mobile applications and web clients such as Gmail, Outlook.com, Yahoo etc.
 
 ## What we have prepared for you?
-When you clone this repository you should get `index.html` file, `img` folder with images used on this template.
+When you clone this repository you should get `index.html` file, `mailchimp.html` file and `img` folder with images used on this template.
 
 ## What to do before you send your emails?
 Don’t forget to change content. Blocks in this template can be reused for new sections, you can move and remove them if you want.
@@ -13,6 +13,7 @@ Don’t forget to change content. Blocks in this template can be reused for new 
 - **Tested with Litmus and EmailOnAcid** – Portfolio email template has been tested with Litmus and EmailOnAcid platforms, it works perfectly on all email clients.
 - **It is Responsive!** – It will provide an optimal viewing experience across a wide range of devices and screen sizes.
 - **Inline CSS and optimized code** – Best code you can get
+- **MailChimp ready** - You can use this template for MailChimp campaigns. Use `mailchimp.html` file for this purpose.
 
 ## Support
 - Apple Mail
